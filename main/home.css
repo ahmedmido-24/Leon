@@ -157,7 +157,7 @@ position: relative;
 /*Start landing Section*/
 .landing{
     height: calc(100vh - 54px);
-    background-image: url(../images/landing.jpg);
+    background-image: url(images/landing.jpg);
     background-size: cover;
     position: relative;
 }
